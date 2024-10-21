@@ -1,4 +1,4 @@
-# EDA
+# Exploratory Data Analysis
 This repository contains Jupyter notebooks for different Exploratory Data Analysis (EDA) projects performed on various datasets. EDA is a crucial step in understanding the underlying structure of the data, cleaning it, and deriving insights to help with model building or decision-making. In each notebook, we handle missing values, convert categorical data, identify outliers, and generate meaningful visualizations to explore relationships between variables.
 
 # Black Friday EDA
